@@ -2,8 +2,6 @@
 Developed an AI-powered chatbot using the Google Gemini API. Built an interactive web interface with Streamlit. Enabled users to ask natural language questions and receive AI-generated responses in real time. Integrated the Gemini Large Language Model (LLM) for conversational AI.
 
 
-# Generative AI Chatbot using Google Gemini
-
 An AI-powered chatbot built with **Python**, **Streamlit**, and the **Google Gemini API**. This project demonstrates how to integrate Google's Gemini Large Language Model (LLM) into a web application to generate intelligent, real-time responses based on user input.
 
 ## 🚀 Features
